@@ -1,10 +1,17 @@
 #EXTM3U
-
-#EXTINF:0,video 1 - ForBiggerJoyrides
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4
-
-#EXTINF:0,video 2 - BigBuckBunny
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-
-#EXTINF:0,video 3 - ElephantsDream
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",4E TV
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/666.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",4E TV
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/38066?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",ACTION 24
+http://232santral.xruistream.com:8080/Mert/Mert88/18847?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",ACTION 24
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/679.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",ACTION 24
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/94102?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",ALPHA HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/38067?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",ALPHA HD.
+http://232santral.xruistream.com:8080/Mert/Mert88/175889?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/689.ts?checkedby:iptvcat.com
